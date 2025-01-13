@@ -1,0 +1,105 @@
+{
+  "Maid": {
+    "One Time": {
+      "1 BHK": 100,
+      "2 BHK": 200,
+      "3 BHK": 300,
+      "4 BHK": 400,
+      "5 BHK": 500
+    },
+    "Monthly": {
+      "1 BHK": 2500,
+      "2 BHK": 2500,
+      "3 BHK": 3000,
+      "4 BHK": 3500,
+      "5 BHK": 4500
+    }
+  },
+  "Cook": {
+    "Monthly": {
+      "1 People": {
+        "Breakfast": 2000,
+        "Lunch": 2000,
+        "Dinner": 2000,
+        "All 3 meals": 3500
+      },
+      "2 People": {
+        "Breakfast": 2500,
+        "Lunch": 2500,
+        "Dinner": 2500,
+        "All 3 meals": 4500
+      },
+      "3 People": {
+        "Breakfast": 3500,
+        "Lunch": 3500,
+        "Dinner": 3500,
+        "All 3 meals": 6500
+      },
+      "4 People": {
+        "Breakfast": 4500,
+        "Lunch": 4500,
+        "Dinner": 4500,
+        "All 3 meals": 8500
+      },
+      "5-6 People": {
+        "Breakfast": 5500,
+        "Lunch": 5500,
+        "Dinner": 5500,
+        "All 3 meals": 10500
+      },
+      "7-8 People": {
+        "Breakfast": 6500,
+        "Lunch": 6500,
+        "Dinner": 6500,
+        "All 3 meals": 12500
+      }
+    },
+    "One Time": {
+      "1 People": {
+        "Breakfast": 200,
+        "Lunch": 200,
+        "Dinner": 200,
+        "All 3 meals": 400
+      },
+      "2 People": {
+        "Breakfast": 200,
+        "Lunch": 200,
+        "Dinner": 200,
+        "All 3 meals": 400
+      },
+      "3 People": {
+        "Breakfast": 300,
+        "Lunch": 300,
+        "Dinner": 300,
+        "All 3 meals": 600
+      },
+      "4 People": {
+        "Breakfast": 300,
+        "Lunch": 300,
+        "Dinner": 300,
+        "All 3 meals": 600
+      },
+      "5-6 People": {
+        "Breakfast": 400,
+        "Lunch": 400,
+        "Dinner": 400,
+        "All 3 meals": 800
+      },
+      "7-8 People": {
+        "Breakfast": 500,
+        "Lunch": 500,
+        "Dinner": 500,
+        "All 3 meals": 1000
+      }
+    }
+  },
+  "Nanny": {
+    "Monthly": {
+      "6 hours": 8000,
+      "8 hours": 10000,
+      "10 hours": 12000,
+      "12 hours": 15000,
+      "24 hours": 20000
+    }
+  }
+}
